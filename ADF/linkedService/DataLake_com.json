@@ -1,0 +1,12 @@
+{
+	"name": "DataLake_com",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://netflixprosaksham.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDhENUU2MERGLTI5NjktNEEzOC04NkM4LUNGN0RCN0ZGQUQ5Rl9jYTg3ZWYyYy1iZmM1LTQ5YzMtOTI3NC1mNjgzZmI3N2ExNWEiDQp9"
+		}
+	}
+}

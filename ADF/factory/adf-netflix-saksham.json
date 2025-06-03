@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-saksham",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6723b601-b81d-4e81-8ec8-f2ec6509c94d",
+		"tenantId": "37ee7f64-761b-48b5-a1ee-f53e37106fdc"
+	}
+}
